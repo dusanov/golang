@@ -1,0 +1,24 @@
+wallets:
+=--==--=
+3000
+-==-=-=-
+19LPMVfXFfk5VeGZTYxh6EbaGzeP4Fs9Hy
+===============
+3001
+-===--==-
+1PzTKab8FMt9TVhxk4TEHiDgEKmcknnnaH
+===============
+3002
+-==-=-=-
+198hBJPqMxxgHfTagb9wdvS6UzuUbaenhw
+===============
+
+cmds:
+-==-=-
+./blockchain_go_7 listaddresses | xargs -I % ./blockchain_go_7 getbalance -address %
+
+
+
+todo:
+=--==-=-
+mozda staviti u thread StartServer u cli_startnode.go

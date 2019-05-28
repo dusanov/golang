@@ -1,0 +1,14 @@
+#!/bin/bash
+
+export NODE_ID=3000
+echo ==== $NODE_ID
+./blockchain_go_7 startnode -miner 19LPMVfXFfk5VeGZTYxh6EbaGzeP4Fs9Hy &
+
+export NODE_ID=3001
+echo ==== $NODE_ID
+./blockchain_go_7 startnode -miner 19LPMVfXFfk5VeGZTYxh6EbaGzeP4Fs9Hy &
+
+export NODE_ID=3002
+echo ==== $NODE_ID
+./blockchain_go_7 startnode -miner 19LPMVfXFfk5VeGZTYxh6EbaGzeP4Fs9Hy &
+ 

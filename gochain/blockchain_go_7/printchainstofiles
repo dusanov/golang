@@ -1,0 +1,12 @@
+#!/bin/bash
+
+echo === about to print ===
+
+export NODE_ID=3000
+./blockchain_go_7 printchain > chain_$NODE_ID.txt
+export NODE_ID=3001
+./blockchain_go_7 printchain > chain_$NODE_ID.txt
+export NODE_ID=3002
+./blockchain_go_7 printchain > chain_$NODE_ID.txt
+
+echo === done printing ===

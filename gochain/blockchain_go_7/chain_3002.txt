@@ -1,0 +1,364 @@
+ === about to open bolt db: blockchain_3002.db
+ === done opening bolt db: blockchain_3002.db
+============ Block 0009dfd9fa9b4510f8799060694efe271b07a5c0b285cbf1b2e55a5c9601afcd ============
+Height: 10
+Prev. block: 0004100775acffc6feac646f4ca6d2c0cbe9584d9b1af1e7d58cac2b0def76fc
+PoW: false
+
+--- Transaction debbb6c515d6b8f7cd8e2489146c17d669b261662b955c8b9698b2d23e3af50b:
+     Input 0:
+       TXID:      05dc998e128163749c368911b778ad8f2e6bcdf7133da121817b610a3691d0c2
+       Out:       0
+       Signature: 7868033f18a6cc4b33c158eb0d5d37a89700c54cf85277f9ea784f19556bc04e6b26fb623fbc44bd4883750091dafa15c0d0b7cd6c690d54efa3b7c3131a5400
+       PubKey:    db5fee0a000b98eaabc3bacc87039d508f0fc4a19802b5213945b088011b919292535e91a688381d4be6af6c7b0da75821115571722e909b0933ed2525a2d502
+     Input 1:
+       TXID:      2c47b33d22c0b5804d33e71a8ab9b6050b50e80afa66d4c628b2f3b61329eaa4
+       Out:       0
+       Signature: 031c1a12f41c951992ab485668827f8dd7ad3b23ebc5f36b0321860743fc1875cfb39f42abeb1aecf4ad94a2ead8c7df706181bfc4f7356eafb3a3db93091f28
+       PubKey:    db5fee0a000b98eaabc3bacc87039d508f0fc4a19802b5213945b088011b919292535e91a688381d4be6af6c7b0da75821115571722e909b0933ed2525a2d502
+     Output 0:
+       Value:  4
+       Script: fc3072bb3fa27e08b5655c9d46ef4709ccc9969a
+     Output 1:
+       Value:  2
+       Script: 593574e1311bec3f5eff0bb56f9e6daf18aa24c1
+--- Transaction a0b76610165a4e7b9c8faba5966dd02d9f6047e9a471020b91a175be44f0b7b1:
+     Input 0:
+       TXID:      2c47b33d22c0b5804d33e71a8ab9b6050b50e80afa66d4c628b2f3b61329eaa4
+       Out:       0
+       Signature: 6c84c4f6ef6398a139107af3ff3047796ec3ab8dbc53aa84ffbeecf2f9cccef917d1b34780bc3faaf68fa809b5ac500bdf02f1bd768a7d5d8daa7ef17582e692
+       PubKey:    db5fee0a000b98eaabc3bacc87039d508f0fc4a19802b5213945b088011b919292535e91a688381d4be6af6c7b0da75821115571722e909b0933ed2525a2d502
+     Input 1:
+       TXID:      05dc998e128163749c368911b778ad8f2e6bcdf7133da121817b610a3691d0c2
+       Out:       0
+       Signature: fce3939fa65a972a8018f2298480aebed5a938f5e79ce577840ea228b71460f576cbc97557bd6944dbc8e52288282b7e56bd52478bac0ef74a3316ca64e3f38f
+       PubKey:    db5fee0a000b98eaabc3bacc87039d508f0fc4a19802b5213945b088011b919292535e91a688381d4be6af6c7b0da75821115571722e909b0933ed2525a2d502
+     Output 0:
+       Value:  4
+       Script: fc3072bb3fa27e08b5655c9d46ef4709ccc9969a
+     Output 1:
+       Value:  2
+       Script: 593574e1311bec3f5eff0bb56f9e6daf18aa24c1
+--- Transaction 8f9d2fd4a27ca79c322def5734db4f2764f6b7036be2e6d4b10d8c29bae08a1e:
+     Input 0:
+       TXID:      
+       Out:       -1
+       Signature: 
+       PubKey:    32386566346665643533336332333439326635373461323436383861656361303864373962323965
+     Output 0:
+       Value:  10
+       Script: fc3072bb3fa27e08b5655c9d46ef4709ccc9969a
+
+
+============ Block 0004100775acffc6feac646f4ca6d2c0cbe9584d9b1af1e7d58cac2b0def76fc ============
+Height: 9
+Prev. block: 0001b4a9f4787f44dfaa815ecd6224155b849777e9fbfa91ec1d4607a7b348a9
+PoW: false
+
+--- Transaction a0b76610165a4e7b9c8faba5966dd02d9f6047e9a471020b91a175be44f0b7b1:
+     Input 0:
+       TXID:      2c47b33d22c0b5804d33e71a8ab9b6050b50e80afa66d4c628b2f3b61329eaa4
+       Out:       0
+       Signature: 931896e7fb0fb1ba87f78bc3fa57e694f396ed41efe6d52bfdb1e7f9a18c4530b77221904d8de8bf0fd5dcac9b74aa8f0add2db555682093c7ce86d85a30dff8
+       PubKey:    db5fee0a000b98eaabc3bacc87039d508f0fc4a19802b5213945b088011b919292535e91a688381d4be6af6c7b0da75821115571722e909b0933ed2525a2d502
+     Input 1:
+       TXID:      05dc998e128163749c368911b778ad8f2e6bcdf7133da121817b610a3691d0c2
+       Out:       0
+       Signature: e4d29605386189f6d5c26351f762d7399f611ac5ae6072e3fb3369b2e785e664bf307b39e582c7fe99b85dcb267826b0ce2f1f9caa7a7cca28340a3abb25c45b
+       PubKey:    db5fee0a000b98eaabc3bacc87039d508f0fc4a19802b5213945b088011b919292535e91a688381d4be6af6c7b0da75821115571722e909b0933ed2525a2d502
+     Output 0:
+       Value:  4
+       Script: fc3072bb3fa27e08b5655c9d46ef4709ccc9969a
+     Output 1:
+       Value:  2
+       Script: 593574e1311bec3f5eff0bb56f9e6daf18aa24c1
+--- Transaction debbb6c515d6b8f7cd8e2489146c17d669b261662b955c8b9698b2d23e3af50b:
+     Input 0:
+       TXID:      05dc998e128163749c368911b778ad8f2e6bcdf7133da121817b610a3691d0c2
+       Out:       0
+       Signature: 23b48038ad008b8421be33dfd044b411779f5ad9b89f5630186dda6018fc9e9833b7fd1e9b4a41633e36c586580a6e39581d262f2ebb3ab1737d42fa27d07779
+       PubKey:    db5fee0a000b98eaabc3bacc87039d508f0fc4a19802b5213945b088011b919292535e91a688381d4be6af6c7b0da75821115571722e909b0933ed2525a2d502
+     Input 1:
+       TXID:      2c47b33d22c0b5804d33e71a8ab9b6050b50e80afa66d4c628b2f3b61329eaa4
+       Out:       0
+       Signature: 5ff62348785151807615df7c8cb89f3eb78299eed89dc8500d0e8f943dcdfa77b2084c1a47d2f5b5c664d928410c25a53e35f4a2aac5c06c625164f6d4717278
+       PubKey:    db5fee0a000b98eaabc3bacc87039d508f0fc4a19802b5213945b088011b919292535e91a688381d4be6af6c7b0da75821115571722e909b0933ed2525a2d502
+     Output 0:
+       Value:  4
+       Script: fc3072bb3fa27e08b5655c9d46ef4709ccc9969a
+     Output 1:
+       Value:  2
+       Script: 593574e1311bec3f5eff0bb56f9e6daf18aa24c1
+--- Transaction 024894bc36d2a98e9839db5ca5b4b0298d9632831f2ad7021a404842dd379bb8:
+     Input 0:
+       TXID:      
+       Out:       -1
+       Signature: 
+       PubKey:    32653331376339633361306132333232363036616363623537633631633439363439393865613965
+     Output 0:
+       Value:  10
+       Script: fc3072bb3fa27e08b5655c9d46ef4709ccc9969a
+
+
+============ Block 0001b4a9f4787f44dfaa815ecd6224155b849777e9fbfa91ec1d4607a7b348a9 ============
+Height: 8
+Prev. block: 00087d7112a30659633061a523f24be1feb187be3cc7f76c2c007a4b7d63215e
+PoW: false
+
+--- Transaction 203ceffe8b67cc50e6213ffebbc476cfa70bf1228d53f9feeffd5a73408cf10f:
+     Input 0:
+       TXID:      05dc998e128163749c368911b778ad8f2e6bcdf7133da121817b610a3691d0c2
+       Out:       0
+       Signature: 5e21f32adc6273435f1cee19989ae0b573a7938939d5c15ccb3e2f43ab3f6a6425650d9670dd8e90128c7beed24214c78aa735295de249f8050e1dc70c27f037
+       PubKey:    db5fee0a000b98eaabc3bacc87039d508f0fc4a19802b5213945b088011b919292535e91a688381d4be6af6c7b0da75821115571722e909b0933ed2525a2d502
+     Output 0:
+       Value:  2
+       Script: fc3072bb3fa27e08b5655c9d46ef4709ccc9969a
+     Output 1:
+       Value:  1
+       Script: 593574e1311bec3f5eff0bb56f9e6daf18aa24c1
+--- Transaction debbb6c515d6b8f7cd8e2489146c17d669b261662b955c8b9698b2d23e3af50b:
+     Input 0:
+       TXID:      05dc998e128163749c368911b778ad8f2e6bcdf7133da121817b610a3691d0c2
+       Out:       0
+       Signature: 7756a7a95e96eef1ec5f202172cbb145864853fc8a5cfe86ebb22ca4cde39c3290b6956f5555da2c48f3c93aec8940734a66775b8830c10f6a9e269868eff2a2
+       PubKey:    db5fee0a000b98eaabc3bacc87039d508f0fc4a19802b5213945b088011b919292535e91a688381d4be6af6c7b0da75821115571722e909b0933ed2525a2d502
+     Input 1:
+       TXID:      2c47b33d22c0b5804d33e71a8ab9b6050b50e80afa66d4c628b2f3b61329eaa4
+       Out:       0
+       Signature: 85f6a47fa26f628f6a6416b5abf94c9c5dde4bfa8cf24c318c84d34beb3242aec099b818cc4be594d63b71dc0bc9da4380c6d2f71717f9a889255bfc14fbd6eb
+       PubKey:    db5fee0a000b98eaabc3bacc87039d508f0fc4a19802b5213945b088011b919292535e91a688381d4be6af6c7b0da75821115571722e909b0933ed2525a2d502
+     Output 0:
+       Value:  4
+       Script: fc3072bb3fa27e08b5655c9d46ef4709ccc9969a
+     Output 1:
+       Value:  2
+       Script: 593574e1311bec3f5eff0bb56f9e6daf18aa24c1
+--- Transaction 2ccb6e35f11d22c0680cd0ce65001e87c413e3e1dfa40e1bdc76b3c26c6fde43:
+     Input 0:
+       TXID:      
+       Out:       -1
+       Signature: 
+       PubKey:    39653232386465376233656565376164663438623033323266656637383864333963323362333139
+     Output 0:
+       Value:  10
+       Script: fc3072bb3fa27e08b5655c9d46ef4709ccc9969a
+
+
+============ Block 00087d7112a30659633061a523f24be1feb187be3cc7f76c2c007a4b7d63215e ============
+Height: 7
+Prev. block: 000a3c4f30f86023ee2947ec1a55084e289d3a5721c4970a1b5b5079aff68a4d
+PoW: true
+
+--- Transaction 58e27ce6046e4d58145b83c54b1910d444d868ecd23dabd613a55f4c8536874e:
+     Input 0:
+       TXID:      
+       Out:       -1
+       Signature: 
+       PubKey:    34303964313732353962383430666236643836353033636239633135353865393931366236623134
+     Output 0:
+       Value:  10
+       Script: fc3072bb3fa27e08b5655c9d46ef4709ccc9969a
+--- Transaction 2c47b33d22c0b5804d33e71a8ab9b6050b50e80afa66d4c628b2f3b61329eaa4:
+     Input 0:
+       TXID:      290aa04dcaaa215a984549b103bee095deebd712548796b4177da7d9eea05b07
+       Out:       0
+       Signature: 416a2154d5e0aca71ae1f97f0e2ecbdadaf1305151ae867c21d47856e050e701dd579bef182476ffba6eaf204b331e84108100093c7d46ea6f8586ab34a53809
+       PubKey:    e4d89ab48bae70227ab9cb4e56c633624eade781733ac0691a029380044c1b64a1809b2b94fdbbf37354501cdb316dd634d5cc3c11a068eda7ddbf4215f1c653
+     Output 0:
+       Value:  3
+       Script: 593574e1311bec3f5eff0bb56f9e6daf18aa24c1
+     Output 1:
+       Value:  7
+       Script: fc3072bb3fa27e08b5655c9d46ef4709ccc9969a
+
+
+============ Block 000a3c4f30f86023ee2947ec1a55084e289d3a5721c4970a1b5b5079aff68a4d ============
+Height: 6
+Prev. block: 0004526e06916ac66427301f771380a53a12f98fdfe86b0a7966923ff350c532
+PoW: true
+
+--- Transaction 290aa04dcaaa215a984549b103bee095deebd712548796b4177da7d9eea05b07:
+     Input 0:
+       TXID:      
+       Out:       -1
+       Signature: 
+       PubKey:    64633061343235633936316365646239613839626163366336323766333235663263396331616333
+     Output 0:
+       Value:  10
+       Script: fc3072bb3fa27e08b5655c9d46ef4709ccc9969a
+--- Transaction bd878559177d5f9b2cbb733d6be77c2b67909ed33b505f6e416cf13b54159352:
+     Input 0:
+       TXID:      05dc998e128163749c368911b778ad8f2e6bcdf7133da121817b610a3691d0c2
+       Out:       1
+       Signature: cb0f6856ed213ae6a8d363cba3531afb7cd0db5568460fc7ed88dac1baddb1647cdbb49212c7b3d7a6314b7b49e111bd03dc1266d00bf4654bc0e5b306f6af06
+       PubKey:    e4d89ab48bae70227ab9cb4e56c633624eade781733ac0691a029380044c1b64a1809b2b94fdbbf37354501cdb316dd634d5cc3c11a068eda7ddbf4215f1c653
+     Output 0:
+       Value:  3
+       Script: 593574e1311bec3f5eff0bb56f9e6daf18aa24c1
+     Output 1:
+       Value:  2
+       Script: fc3072bb3fa27e08b5655c9d46ef4709ccc9969a
+
+
+============ Block 0004526e06916ac66427301f771380a53a12f98fdfe86b0a7966923ff350c532 ============
+Height: 5
+Prev. block: 0006c131b038082e252a5cf69d4a163f86b9a7ee17df069dd7515c6b96f14b72
+PoW: true
+
+--- Transaction 500aae87626b288f53a27a1d3b4704d1e0c6336110c215177e889e5e46deb7fe:
+     Input 0:
+       TXID:      
+       Out:       -1
+       Signature: 
+       PubKey:    34353139353766633239613337333066353038366235383533633734303232356231316563356530
+     Output 0:
+       Value:  10
+       Script: fc3072bb3fa27e08b5655c9d46ef4709ccc9969a
+--- Transaction 05dc998e128163749c368911b778ad8f2e6bcdf7133da121817b610a3691d0c2:
+     Input 0:
+       TXID:      26387062cad88ef4c058eb80fdeace3ca8a3788b1bc91470af63f1bd3b1a446b
+       Out:       0
+       Signature: 64cc7ad62db7f5fc450cf5e0c7d424ca4533aab08128ed1dcbdd4eb9f43d7cebed4155be908447699eceabf152e68d88432ad65f234fe128143ba9c208ea7f02
+       PubKey:    e4d89ab48bae70227ab9cb4e56c633624eade781733ac0691a029380044c1b64a1809b2b94fdbbf37354501cdb316dd634d5cc3c11a068eda7ddbf4215f1c653
+     Input 1:
+       TXID:      86452ec9a64d2883a920501676be76ad01c08bd991dc0cc421b9fb7d8add8a86
+       Out:       0
+       Signature: 5a9fc542db7b6020e55fba22b2025e90187a174086204967f2eeae0f04c980bf995fdf5c8a634c791be8ae3f2a5ee462f84e979a170364870a923bc2ceafcd73
+       PubKey:    e4d89ab48bae70227ab9cb4e56c633624eade781733ac0691a029380044c1b64a1809b2b94fdbbf37354501cdb316dd634d5cc3c11a068eda7ddbf4215f1c653
+     Output 0:
+       Value:  3
+       Script: 593574e1311bec3f5eff0bb56f9e6daf18aa24c1
+     Output 1:
+       Value:  5
+       Script: fc3072bb3fa27e08b5655c9d46ef4709ccc9969a
+
+
+============ Block 0006c131b038082e252a5cf69d4a163f86b9a7ee17df069dd7515c6b96f14b72 ============
+Height: 4
+Prev. block: 00093a74a8b6bc3b0e0728ea5f51bfe507a1474e477ac58ab0e2b986fb8f68c0
+PoW: true
+
+--- Transaction 4bdc31045b9e368e97363f6af81cd6799c4d8b2ce9aa32c6577c188e589cbbe4:
+     Input 0:
+       TXID:      
+       Out:       -1
+       Signature: 
+       PubKey:    65343062333238646232383862356332626637363835366237356334366138336565656230303363
+     Output 0:
+       Value:  10
+       Script: 5b6b91b5c489ef124405d6d6d3e1169bdfdc150c
+--- Transaction 9e131228744a29f6f6e23d1b8677ba1c2d9ab0b6925defa8268982d253e74e38:
+     Input 0:
+       TXID:      842675b37f22fe20d4305eee30a0bdd0a9511793beeaf58b521d461251a72110
+       Out:       0
+       Signature: 12d356b8cbb1c589269b725cd2fe733ebc3c7f11622e413e8060aa206aa3c77edb746d0dc04389164b9f387aa28b6a88d36c3466fbe9a771bf7ba7b128051efb
+       PubKey:    3ad56ca4fe181c09d95ebd6366027b6e48334b4276c92aaf0a01c80ad164b9a25ee2063330798a0f0bcda883419095b6870347700f5ff4f699fc3320fa684518
+     Output 0:
+       Value:  7
+       Script: 593574e1311bec3f5eff0bb56f9e6daf18aa24c1
+     Output 1:
+       Value:  3
+       Script: 5b6b91b5c489ef124405d6d6d3e1169bdfdc150c
+
+
+============ Block 00093a74a8b6bc3b0e0728ea5f51bfe507a1474e477ac58ab0e2b986fb8f68c0 ============
+Height: 3
+Prev. block: 00034dfdbbcd2fd7f77987c5ff7ef384ccec99f9d3908173cb731767336c5415
+PoW: true
+
+--- Transaction b7a552ee16ba7ac0e65dafac832739d74631de00b561314ef275780a221b5904:
+     Input 0:
+       TXID:      
+       Out:       -1
+       Signature: 
+       PubKey:    66613962306261613235363733626561663238643433306430343263306363303565353032636337
+     Output 0:
+       Value:  10
+       Script: 5b6b91b5c489ef124405d6d6d3e1169bdfdc150c
+--- Transaction 86452ec9a64d2883a920501676be76ad01c08bd991dc0cc421b9fb7d8add8a86:
+     Input 0:
+       TXID:      26387062cad88ef4c058eb80fdeace3ca8a3788b1bc91470af63f1bd3b1a446b
+       Out:       1
+       Signature: 420def19b1a5bdd62a6da4945be1753420e5d2052299ddd624a82a4bec8d468b77adb7f140c51f34ebb462b591211d88fa21484d1530f5f1e14cae3c1519024d
+       PubKey:    3ad56ca4fe181c09d95ebd6366027b6e48334b4276c92aaf0a01c80ad164b9a25ee2063330798a0f0bcda883419095b6870347700f5ff4f699fc3320fa684518
+     Output 0:
+       Value:  7
+       Script: fc3072bb3fa27e08b5655c9d46ef4709ccc9969a
+     Output 1:
+       Value:  2
+       Script: 5b6b91b5c489ef124405d6d6d3e1169bdfdc150c
+
+
+============ Block 00034dfdbbcd2fd7f77987c5ff7ef384ccec99f9d3908173cb731767336c5415 ============
+Height: 2
+Prev. block: 0007263007d6307213e066c845a07ffac954a779125707a3c8a7f8ddd5660333
+PoW: true
+
+--- Transaction 842675b37f22fe20d4305eee30a0bdd0a9511793beeaf58b521d461251a72110:
+     Input 0:
+       TXID:      
+       Out:       -1
+       Signature: 
+       PubKey:    65376161373537386239346533343137376462626137643634653633346430303462383239616163
+     Output 0:
+       Value:  10
+       Script: 5b6b91b5c489ef124405d6d6d3e1169bdfdc150c
+--- Transaction 26387062cad88ef4c058eb80fdeace3ca8a3788b1bc91470af63f1bd3b1a446b:
+     Input 0:
+       TXID:      1446b5c65ba6e327c785f812ce6a0a686e6dca6b23d7f2e6141359af1b0d9c8b
+       Out:       0
+       Signature: 42d7b70629807a5ad6ce6a6db482c3e2f91aa9e58494c135c13b80a2e7481aaf4a8d5ecf5b2d37acde8fb0e49b707a98a1b6cc68ae1e6aff3f4a8fd5b62be41c
+       PubKey:    3ad56ca4fe181c09d95ebd6366027b6e48334b4276c92aaf0a01c80ad164b9a25ee2063330798a0f0bcda883419095b6870347700f5ff4f699fc3320fa684518
+     Output 0:
+       Value:  1
+       Script: fc3072bb3fa27e08b5655c9d46ef4709ccc9969a
+     Output 1:
+       Value:  9
+       Script: 5b6b91b5c489ef124405d6d6d3e1169bdfdc150c
+
+
+============ Block 0007263007d6307213e066c845a07ffac954a779125707a3c8a7f8ddd5660333 ============
+Height: 1
+Prev. block: 000fc6ba78f4aad1455e7b7e5b649b08139ec4b1d3f4d66bbf3d0b176311133e
+PoW: true
+
+--- Transaction 1446b5c65ba6e327c785f812ce6a0a686e6dca6b23d7f2e6141359af1b0d9c8b:
+     Input 0:
+       TXID:      
+       Out:       -1
+       Signature: 
+       PubKey:    31626365613761613964393737393864663031303932663137363438636435623831366565323032
+     Output 0:
+       Value:  10
+       Script: 5b6b91b5c489ef124405d6d6d3e1169bdfdc150c
+--- Transaction 8777fb3ac6d537f8ba658764c75646d21a2996f36affe4085ece3ce9e66255f8:
+     Input 0:
+       TXID:      5d409e9cf0c5630eb663ee046afbbe72ca84053460f4c3d76962118acd0cdc3c
+       Out:       0
+       Signature: 058600e6c571c522ce9d54160bafe7f094e29327337dd876f588e00b61ebe2fd0e1d8727878b13af31eff3d0fcb63a78a2b1cb246c6a2ad3feefa13cf2f4e20c
+       PubKey:    3ad56ca4fe181c09d95ebd6366027b6e48334b4276c92aaf0a01c80ad164b9a25ee2063330798a0f0bcda883419095b6870347700f5ff4f699fc3320fa684518
+     Output 0:
+       Value:  1
+       Script: fc3072bb3fa27e08b5655c9d46ef4709ccc9969a
+     Output 1:
+       Value:  9
+       Script: 5b6b91b5c489ef124405d6d6d3e1169bdfdc150c
+
+
+============ Block 000fc6ba78f4aad1455e7b7e5b649b08139ec4b1d3f4d66bbf3d0b176311133e ============
+Height: 0
+Prev. block: 
+PoW: true
+
+--- Transaction 5d409e9cf0c5630eb663ee046afbbe72ca84053460f4c3d76962118acd0cdc3c:
+     Input 0:
+       TXID:      
+       Out:       -1
+       Signature: 
+       PubKey:    5468652054696d65732030332f4a616e2f32303039204368616e63656c6c6f72206f6e206272696e6b206f66207365636f6e64206261696c6f757420666f722062616e6b73
+     Output 0:
+       Value:  10
+       Script: 5b6b91b5c489ef124405d6d6d3e1169bdfdc150c
+
+

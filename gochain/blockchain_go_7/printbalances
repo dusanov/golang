@@ -1,0 +1,12 @@
+#!/bin/bash
+
+export NODE_ID=3000
+echo === $NODE_ID ===
+./blockchain_go_7 listaddresses | xargs -I % ./blockchain_go_7 getbalance -address %
+export NODE_ID=3001
+echo === $NODE_ID ===
+./blockchain_go_7 listaddresses | xargs -I % ./blockchain_go_7 getbalance -address %
+export NODE_ID=3002
+echo === $NODE_ID ===
+./blockchain_go_7 listaddresses | xargs -I % ./blockchain_go_7 getbalance -address %
+

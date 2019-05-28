@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo === about to reset 3000, 3001, 3002 nodes ===
+
+rm chain_300*.txt blockchain_300*.db
+cp blockchain_genesis.db blockchain_3000.db
+cp blockchain_genesis.db blockchain_3001.db
+cp blockchain_genesis.db blockchain_3002.db
+
+echo === done reseting 3000, 3001, 3002 nodes ===
+
